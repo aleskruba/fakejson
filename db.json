@@ -1,0 +1,23 @@
+{
+  "products": [
+  { "id":1,
+  "name": "Tesla",
+  "price": 5000
+  },
+  { "id":2,
+  "name": "LG",
+  "price": 8000
+  },
+  { "id":3,
+  "name": "Samsung",
+  "price": 12000
+  },
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
